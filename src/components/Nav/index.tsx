@@ -8,7 +8,7 @@ const Nav: FC<HTMLAttributes<HTMLElement>> = (props): JSX.Element => {
   return (
     <Container {...props}>
         <ul>
-          <li> <img src={logoImg} alt="Little Lemon Logo" /> </li>
+          <li> <HashLink to="/"><img src={logoImg} alt="Little Lemon Logo" /></HashLink> </li>
           <li> <HashLink to="/">Home</HashLink> </li>
           <li> <HashLink to="/#about">About</HashLink> </li>
           <li> <HashLink to="/#menu">Menu</HashLink> </li>

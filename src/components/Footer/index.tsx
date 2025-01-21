@@ -52,8 +52,8 @@ const Footer: FC<HTMLAttributes<HTMLElement>> = (props): JSX.Element => {
             </li>
             <li>
               {" "}
-              <a href="tel:+551199999999" target="_blank" rel="external">
-                +55 11 9999-9999
+              <a href="tel:+551199990000" target="_blank" rel="external">
+                +55 11 9999-0000
               </a>{" "}
             </li>
             <li>
@@ -74,7 +74,7 @@ const Footer: FC<HTMLAttributes<HTMLElement>> = (props): JSX.Element => {
             <li>
               {" "}
               <a
-                href="https://www.facebook.com/littlelemon"
+                href="https://www.facebook.com/"
                 target="_blank"
                 rel="external"
               >
@@ -84,7 +84,7 @@ const Footer: FC<HTMLAttributes<HTMLElement>> = (props): JSX.Element => {
             <li>
               {" "}
               <a
-                href="https://www.instagram.com/littlelemon"
+                href="https://www.instagram.com/"
                 target="_blank"
                 rel="external"
               >
@@ -94,7 +94,7 @@ const Footer: FC<HTMLAttributes<HTMLElement>> = (props): JSX.Element => {
             <li>
               {" "}
               <a
-                href="https://twitter.com/littlelemon"
+                href="https://twitter.com/"
                 target="_blank"
                 rel="external"
               >
@@ -105,8 +105,8 @@ const Footer: FC<HTMLAttributes<HTMLElement>> = (props): JSX.Element => {
         </Column>
       </Content>
       <Copyright>
-        <span>Developed by Abdullah Iqbal.</span>
-        <p>© 2023 Little Lemon. All rights reserved.</p>
+        <span>Developed by Vijay.</span>
+        <p>© 2025 Little Lemon. All rights reserved.</p>
       </Copyright>
     </Container>
   );
